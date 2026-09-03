@@ -42,7 +42,7 @@ This repository contains my completed work for the Daikibo Analytics job simulat
 ### Takeaway
 Downtime is concentrated in a small number of high-risk devices and locations. Prioritizing preventive maintenance on laser welders and cutters at the Seiko and Shenzhen factories — and studying what Berlin is doing right — would have the biggest impact on uptime.
 
-📊 *Dashboard screenshot included in this repo: `dashboard-screenshot.png`*
+📊 *Dashboard screenshot included in this repo: `Task 1/Forage_Data_analytics_Deloitte Task 1.png`*
 
 ---
 
