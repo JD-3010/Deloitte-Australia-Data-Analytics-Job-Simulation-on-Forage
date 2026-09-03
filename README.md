@@ -75,11 +75,11 @@ Downtime is concentrated in a small number of high-risk devices and locations. P
 ---
 
 ## 🎓 Certificate
-Completion certificate: *Deloitte Data Analytics Certificate (Forage).pdf*
+*[Completion Certificate](https://github.com/JD-3010/Deloitte-Australia-Data-Analytics-Job-Simulation-on-Forage/blob/main/Deloitte%20Data%20Analytics%20Certificate%20(Forage).pdf)*
 
 ## 🔗 Connect
-- GitHub: *[[Click Here to View my Profile]](https://github.com/JD-3010)*
-- LinkedIn: *[add your LinkedIn profile link]*
+- *[[Github | JD-3010]](https://github.com/JD-3010)*
+- *[[LinkedIn | Jeremy David]](https://www.linkedin.com/in/jeremy-david-643870201/)*
 
 ---
 
